@@ -9,6 +9,7 @@
 // The structs defined here are typically used within the context that is
 // propagated down the pipeline, with the values being produced by
 // authenticators and/or receivers, and consumed by processors and exporters.
+
 //
 // # Producers
 //
